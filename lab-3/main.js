@@ -51,6 +51,8 @@
         });
 
         $("#div_about").load("./pages/about.html");
+        $("#div_form").load("./pages/form.html");
+        
 
      }); //jQuery Handle
 
